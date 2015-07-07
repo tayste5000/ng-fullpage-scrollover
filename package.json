@@ -1,0 +1,24 @@
+{
+  "name": "ng-fullpage-scrollover",
+  "version": "1.0.0",
+  "description": "Lightweight angular directive for creating landing pages with a fullpage scrollover effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayste5000/ng-fullpage-scrollover.git"
+  },
+  "keywords": [
+    "angular",
+    "fullpage",
+    "scrollover"
+  ],
+  "author": "Taylor Stevens <tayste5000@gmail.com> (https://github.com/tayste5000)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayste5000/ng-fullpage-scrollover/issues"
+  },
+  "homepage": "https://github.com/tayste5000/ng-fullpage-scrollover#readme"
+}

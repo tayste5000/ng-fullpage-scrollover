@@ -1,0 +1,12 @@
+body{
+	margin:0;
+}
+
+.landing, .rest{
+	padding-top:150px;
+	text-align:center;
+}
+
+.rest{
+	height: 1000px;
+}
