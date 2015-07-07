@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tayste5000/ng-fullpage-scrollover/issues"
   },
-  "homepage": "https://github.com/tayste5000/ng-fullpage-scrollover#readme"
+  "homepage": "https://github.com/tayste5000/ng-fullpage-scrollover#readme",
+  "devDependencies": {
+    "angular": "^1.3.17"
+  }
 }
